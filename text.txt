@@ -1,6 +1,1 @@
-this is from another branch
-new upd 
-upd branch
-give me examples with /config psl 
-
-So yes — it’s not automatic. It’s only used to override a prior rule. - why would we even do this 
+this should be merged
